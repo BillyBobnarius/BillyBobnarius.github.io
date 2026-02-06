@@ -9,6 +9,13 @@ body {
     min-height: 90vh;
 }
 
+.name-footer { 
+    margin-top: 10px;
+    font-size: 100%;
+    color: #7397bd;
+    font-weight: bold;
+}
+
 .container {
     background-color: #ffffff;
     width: 90%;
