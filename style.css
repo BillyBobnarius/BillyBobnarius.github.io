@@ -1,0 +1,11 @@
+.TopTab {
+    border-style: solid;
+    border-color: blueviolet;
+    
+    height: 10%;
+    width: 100%;
+    background-color: rgb(38, 67, 71);
+
+    position: fixed;
+    bottom: 1;
+}
