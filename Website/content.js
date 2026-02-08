@@ -1,35 +1,47 @@
 const gymData = {
     "location1": {
-        label: "Location 1",
+        label: "Activity 1",
         title: "Westmount Park & Westmount area",
         description: {
-            point1: "1) This is the first paragraph about the Town Square. It focuses on the community atmosphere.",
-            point2: "2) This is the second paragraph. Here, I observed how the outdoor equipment handles weather wear.",
-            point3: "3) This is the third paragraph. I concluded that urban gyms are the future of accessible fitness.",
-            point4: "4) This is the third paragraph. I concluded that urban gyms are the future of accessible fitness.",
-            point5: "5) This is the third paragraph. I concluded that urban gyms are the future of accessible fitness.",
+            point1: "1)",
+            point2: "2)",
+            point3: "3)",
+            point4: "4)",
+            point5: "5)",
+            point6: "6)",
+            point7: "7)",
+            point8: "8)",
+            point9: "9)",
         }
     },
     "location2": {
-        label: "Location 2",
-        title: "The Iron Warehouse",
+        label: "Activity 2",
+        title: "Canadian Architecture Centre",
         description: {
-            point1: "1) This is the first paragraph about the Town Square. It focuses on the community atmosphere.",
-            point2: "2) This is the second paragraph. Here, I observed how the outdoor equipment handles weather wear.",
-            point3: "3) This is the third paragraph. I concluded that urban gyms are the future of accessible fitness.",
-            point4: "4) This is the third paragraph. I concluded that urban gyms are the future of accessible fitness.",
-            point5: "5) This is the third paragraph. I concluded that urban gyms are the future of accessible fitness.",
+            point1: "1)",
+            point2: "2)",
+            point3: "3)",
+            point4: "4)",
+            point5: "5)",
+            point6: "6)",
+            point7: "7)",
+            point8: "8)",
+            point9: "9)",
         }
     },
     "location3": {
-        label: "Location 3",
-        title: "Cartier Square",
+        label: "Activity 3",
+        title: "",
         description: {
-            point1: "1) This is the first paragraph about the Town Square. It focuses on the community atmosphere.",
-            point2: "2) This is the second paragraph. Here, I observed how the outdoor equipment handles weather wear.",
-            point3: "3) This is the third paragraph. I concluded that urban gyms are the future of accessible fitness.",
-            point4: "4) This is the third paragraph. I concluded that urban gyms are the future of accessible fitness.",
-            point5: "5) This is the third paragraph. I concluded that urban gyms are the future of accessible fitness.",
+            point1: "1)",
+            point2: "2)",
+            point3: "3)",
+            point4: "4)",
+            point5: "5)",
+            point6: "6)",
+            point7: "7)",
+            point8: "8)",
+            point9: "9)",
         }
     }
 };
