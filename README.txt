@@ -1,1 +1,0 @@
-This is my gym project portfolio website where I needed to take pictures of various locations that we walked to during the semester

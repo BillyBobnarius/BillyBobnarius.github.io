@@ -1,7 +1,7 @@
 const gymData = {
     "location1": {
         label: "Location 1",
-        title: "Westmount Park",
+        title: "Westmount Park & Westmount area",
         description: {
             point1: "1) This is the first paragraph about the Town Square. It focuses on the community atmosphere.",
             point2: "2) This is the second paragraph. Here, I observed how the outdoor equipment handles weather wear.",
