@@ -1,5 +1,5 @@
-const gymData = {
-    "location1": {
+const activity_data = {
+    "activity_1": {
         label: "Activity 1",
         title: "Westmount Park & Westmount area",
         description: {
@@ -14,7 +14,7 @@ const gymData = {
             point9: "9)",
         }
     },
-    "location2": {
+    "activity_2": {
         label: "Activity 2",
         title: "Canadian Architecture Centre",
         description: {
@@ -29,7 +29,7 @@ const gymData = {
             point9: "9)",
         }
     },
-    "location3": {
+    "activity_3": {
         label: "Activity 3",
         title: "",
         description: {
@@ -46,18 +46,18 @@ const gymData = {
     }
 };
 
-function loadContent() {
-    const container = document.querySelector('[data-location]');
+function load_content() {
+    const container = document.querySelector('[data-activity]');
     if (container) {
-        const id = container.getAttribute('data-location');
-        const data = gymData[id];
+        const id = container.getAttribute('data-activity');
+        const data = activity_data[id];
 
         if (data) {
-            document.getElementById('loc-label').innerText = data.label;
-            document.getElementById('loc-title').innerText = data.title;
+            document.getElementById('activity-label').innerText = data.label;
+            document.getElementById('activity-title').innerText = data.title;
 
             // Target the description area
-            const descArea = document.getElementById('loc-description');
+            const descArea = document.getElementById('activity-description');
             descArea.innerHTML = ""; // Clear any example text first
 
             // Loop through the description object and create paragraphs
@@ -70,4 +70,4 @@ function loadContent() {
     }
 }
 
-window.onload = loadContent;
+window.onload = load_content;
