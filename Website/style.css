@@ -8,6 +8,11 @@ body {
     align-items: center;
 }
 
+.landing {
+    font-family: 'Segoe UI', "Tahoma", "Geneva", "Verdana", "sans-serif";
+    font-Size: "20px";
+}
+
 .name-footer { 
     margin-top: 10px;
     font-size: 100%;
