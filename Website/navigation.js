@@ -2,7 +2,7 @@ const start_page_name = "index";
 const page_holder_name = "activities";
 const page_name_prefix = "activity";
 const min_page = 0;
-const max_pages = 8;
+const max_pages = 12;
 
 function navigate() {
     const path = window.location.pathname;

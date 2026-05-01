@@ -94,6 +94,62 @@ const activity_data = {
             point8: "8) I was near the back this walk, it affected me as I was almost caught behind a light and seperated from the group.",
         }
     },
+    "activity_9": {
+        label: "Activity 7",
+        title: "McGill University Walk",
+        description: {
+            point1: "1) The walk was 2.5km.",
+            point2: "2) The main fitness componenet targeted was cardio Vascular endurance.",
+            point3: "3) The intensity was a 0-2 out of 10 and the duration was 40 minutes.",
+            point4: "4) Norman Bethune was a physician and died in battle as a battlefield surgeon, becoming a national hero for china, source: https://www.canada.ca/en/parks-canada/news/2018/06/dr-norman-bethune-1890-1939.html .",
+            point5: "5) I got to observe the Norman Bethune Square, where a statue of Norman Bethune stands. I got to learn about his medical  ",
+            point6: "6) I learned a bit about Norman Bethune and his impact he had for China, it made me proud as a Canadian that Norman helped another nation and even more proud that he has a statue to recognize his heroism.",
+            point7: "7) If you go to Concordia University, you should enjoy the student spots nearby such as the plentiful amounts of spaces to study or grab a coffee from Starbucks to help you concentrate.",
+            point8: "8) I was near the back this walk, it affected me as I was almost caught behind a light and seperated from the group.",
+        }
+    },
+    "activity_10": {
+        label: "Activity 8",
+        title: "Walk the Talk Part 1",
+        description: {
+            point1: "1) The walk was 2.5km.",
+            point2: "2) The main fitness componenet targeted was cardio Vascular endurance.",
+            point3: "3) The intensity was a 0-2 out of 10 and the duration was 40 minutes.",
+            point4: "4) Norman Bethune was a physician and died in battle as a battlefield surgeon, becoming a national hero for china, source: https://www.canada.ca/en/parks-canada/news/2018/06/dr-norman-bethune-1890-1939.html .",
+            point5: "5) I got to observe the Norman Bethune Square, where a statue of Norman Bethune stands. I got to learn about his medical  ",
+            point6: "6) I learned a bit about Norman Bethune and his impact he had for China, it made me proud as a Canadian that Norman helped another nation and even more proud that he has a statue to recognize his heroism.",
+            point7: "7) If you go to Concordia University, you should enjoy the student spots nearby such as the plentiful amounts of spaces to study or grab a coffee from Starbucks to help you concentrate.",
+            point8: "8) I was near the back this walk, it affected me as I was almost caught behind a light and seperated from the group.",
+        }
+    },
+    "activity_11": {
+        label: "Activity 8",
+        title: "Walk the Talk Part 2",
+        description: {
+            point1: "1) The walk was 2.5km.",
+            point2: "2) The main fitness componenet targeted was cardio Vascular endurance.",
+            point3: "3) The intensity was a 0-2 out of 10 and the duration was 40 minutes.",
+            point4: "4) Norman Bethune was a physician and died in battle as a battlefield surgeon, becoming a national hero for china, source: https://www.canada.ca/en/parks-canada/news/2018/06/dr-norman-bethune-1890-1939.html .",
+            point5: "5) I got to observe the Norman Bethune Square, where a statue of Norman Bethune stands. I got to learn about his medical  ",
+            point6: "6) I learned a bit about Norman Bethune and his impact he had for China, it made me proud as a Canadian that Norman helped another nation and even more proud that he has a statue to recognize his heroism.",
+            point7: "7) If you go to Concordia University, you should enjoy the student spots nearby such as the plentiful amounts of spaces to study or grab a coffee from Starbucks to help you concentrate.",
+            point8: "8) I was near the back this walk, it affected me as I was almost caught behind a light and seperated from the group.",
+        }
+    },
+    "activity_12": {
+        label: "Activity 9",
+        title: "Resistance Training",
+        description: {
+            point1: "1) The walk was 2.5km.",
+            point2: "2) The main fitness componenet targeted was cardio Vascular endurance.",
+            point3: "3) The intensity was a 0-2 out of 10 and the duration was 40 minutes.",
+            point4: "4) Norman Bethune was a physician and died in battle as a battlefield surgeon, becoming a national hero for china, source: https://www.canada.ca/en/parks-canada/news/2018/06/dr-norman-bethune-1890-1939.html .",
+            point5: "5) I got to observe the Norman Bethune Square, where a statue of Norman Bethune stands. I got to learn about his medical  ",
+            point6: "6) I learned a bit about Norman Bethune and his impact he had for China, it made me proud as a Canadian that Norman helped another nation and even more proud that he has a statue to recognize his heroism.",
+            point7: "7) If you go to Concordia University, you should enjoy the student spots nearby such as the plentiful amounts of spaces to study or grab a coffee from Starbucks to help you concentrate.",
+            point8: "8) I was near the back this walk, it affected me as I was almost caught behind a light and seperated from the group.",
+        }
+    },
 };
 
 function load_content() {
